@@ -14,7 +14,7 @@ echo "<br>";
 echo "Combinar los dos Arrays en uno", "<br>";
 $comb = array_merge($array1,$array2);
 var_dump($comb);
-echo ""
+echo "Imprime la medida del array";
 echo count($comb),"<br>";
 echo "Mostrar los datos uno a uno del Array Fusionado", "<br>";
 print_r ($comb);
